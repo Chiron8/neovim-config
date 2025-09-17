@@ -21,4 +21,8 @@ This is a separate repo to my dotfiles as I feel like this config can work with 
 - toggle-term (inbuilt-terminal)
 - Treesitter (pretty print)
 
+## Images
 
+![Image 1](https://github.com/Chiron8/neovim-config/blob/main/image(2).png)
+
+![Image 2](https://github.com/Chiron8/neovim-config/blob/main/image(3).png)
