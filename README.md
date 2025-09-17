@@ -2,6 +2,8 @@
 
 My neovim config that I use for programming and note-taking
 
+This is a separate repo to my dotfiles as I feel like this config can work with any system
+
 ## Plugins
 
 - alpha-nvim (start screen)
@@ -19,4 +21,4 @@ My neovim config that I use for programming and note-taking
 - toggle-term (inbuilt-terminal)
 - Treesitter (pretty print)
 
-nice
+
