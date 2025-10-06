@@ -1,8 +1,10 @@
 return {
     "OXY2DEV/markview.nvim",
     lazy = false,
-    priority = 10000,
     dependencies = {
         "nvim-treesitter/nvim-treesitter",
+        "OXY2DEV/markview.nvim",
+        "saghen/blink.cmp"
     },
+    priority = 49
 }

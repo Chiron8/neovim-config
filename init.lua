@@ -69,5 +69,4 @@ vim.keymap.set('n', '<C-n>', '<Cmd>Neotree toggle<CR>')
 --Inbuilt terminal
 vim.keymap.set('n', '<leader>h', '<Cmd>ToggleTerm size=20 dir=~/Desktop direction=horizontal name=desktop<CR>')
 
--- Colourscheme
-
+vim.wo.number = true
